@@ -1,0 +1,15 @@
+C:\Users\milos\Desktop\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+C:\Users\milos\Desktop\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM.csprojAssemblyReference.cache
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\App.g.cs
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\View\MainWindow.baml
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+C:\Users\milos\Desktop\MinimalMVVM\obj\Debug\MinimalMVVM.pdb

@@ -22,3 +22,9 @@ C:\Users\milos\Desktop\New folder (2)\PS_35_Milos\UserLogin\bin\Debug\UserLogin.
 C:\Users\milos\Desktop\New folder (2)\PS_35_Milos\UserLogin\obj\Debug\UserLogin.csprojResolveAssemblyReference.cache
 C:\Users\milos\Desktop\New folder (2)\PS_35_Milos\UserLogin\obj\Debug\UserLogin.exe
 C:\Users\milos\Desktop\New folder (2)\PS_35_Milos\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\UserLogin\obj\Debug\UserLogin.pdb

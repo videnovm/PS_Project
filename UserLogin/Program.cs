@@ -17,7 +17,6 @@ namespace UserLogin
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("\t\t\tLOGIN: \n--------------------------------------------------------");
             Console.WriteLine("Въведете потребителското име:");
             String usernameInput = Console.ReadLine();
             Console.WriteLine("Въведете парола:");
@@ -91,11 +90,12 @@ namespace UserLogin
                         Console.WriteLine("Въведете потребителското име: ");
                         String name = Console.ReadLine();
                         Console.WriteLine("Новата дата на активност: ");
-                        DateTime date = DateTime.Now;
-                        Console.WriteLine(date);
+                        var date = DateTime.Now;
 
-                        UserData.SetUserActiveTo(name, date);
-
+                        if (DateTime.TryParseExact(Console.ReadLine(), "yyyy-mm-dd", null, System.Globalization.DateTimeStyles.None, out date))
+                        {
+                            UserData.SetUserActiveTo(name, date);
+                        }
                         break;
                     case 3:
                         foreach (User user1 in UserData.testUsers)

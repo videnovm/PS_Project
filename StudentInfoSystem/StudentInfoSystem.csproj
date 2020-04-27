@@ -53,16 +53,18 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="LoginWindow.xaml.cs">
+    <Compile Include="Views\LoginWindow.xaml.cs">
       <DependentUpon>LoginWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="StudentData.cs" />
-    <Compile Include="StudentValidation.cs" />
-    <Page Include="LoginWindow.xaml">
+    <Compile Include="MainWindowVM.cs" />
+    <Compile Include="Commands\RelayCommand.cs" />
+    <Compile Include="Logic\StudentData.cs" />
+    <Compile Include="Logic\StudentValidation.cs" />
+    <Page Include="Views\LoginWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainWindow.xaml">
+    <Page Include="Views\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -70,8 +72,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Student.cs" />
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="Models\Student.cs" />
+    <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>

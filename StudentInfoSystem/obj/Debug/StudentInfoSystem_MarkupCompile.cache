@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\milos\Desktop\PS_36_Milos\StudentInfoSystem\obj\Debug\
+C:\Users\milos\Desktop\PS_Project\StudentInfoSystem\obj\Debug\
 StudentInfoSystem
 none
 false
 DEBUG;TRACE
-C:\Users\milos\Desktop\PS_36_Milos\StudentInfoSystem\App.xaml
-22037783069
+C:\Users\milos\Desktop\PS_Project\StudentInfoSystem\App.xaml
+2-1011480540
 
-9165025617
-13412466038
-LoginWindow.xaml;MainWindow.xaml;
+15-1778469998
+132106375283
+Views\LoginWindow.xaml;Views\MainWindow.xaml;
 
-False
+True
 

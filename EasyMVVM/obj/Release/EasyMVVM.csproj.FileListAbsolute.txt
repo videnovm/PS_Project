@@ -1,0 +1,15 @@
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\bin\Release\EasyMVVM.exe.config
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\bin\Release\EasyMVVM.exe
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\bin\Release\EasyMVVM.pdb
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM.csprojResolveAssemblyReference.cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\MainWindow.g.cs
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\App.g.cs
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM_MarkupCompile.cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM_MarkupCompile.lref
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\MainWindow.baml
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM.g.resources
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM.Properties.Resources.resources
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM.csproj.GenerateResource.Cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM.exe
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\EasyMVVM\obj\Release\EasyMVVM.pdb

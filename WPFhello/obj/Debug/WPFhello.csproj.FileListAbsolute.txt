@@ -12,9 +12,26 @@ C:\Users\milos\Desktop\New folder\PS_35_Milos\WPFhello\obj\Debug\WPFhello.exe
 C:\Users\milos\Desktop\New folder\PS_35_Milos\WPFhello\obj\Debug\WPFhello.pdb
 C:\Users\milos\Desktop\New folder\PS_35_Milos\WPFhello\obj\Debug\MyMessage.baml
 C:\Users\milos\Desktop\New folder\PS_35_Milos\WPFhello\obj\Debug\MyMessage.g.cs
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\bin\Debug\WPFhello.exe.config
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\bin\Debug\WPFhello.exe
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\bin\Debug\WPFhello.pdb
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello.csprojAssemblyReference.cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\MainWindow.baml
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\MyMessage.baml
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\MainWindow.g.cs
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\MyMessage.g.cs
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\App.g.cs
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello_MarkupCompile.cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello.g.resources
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello.Properties.Resources.resources
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello.csproj.CoreCompileInputs.cache
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello.exe
+C:\Users\milos\Desktop\Folderi\Upr4-Милош_Виденов_123217004\PS_36_Milos\WPFhello\obj\Debug\WPFhello.pdb
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\bin\Debug\WPFhello.exe.config
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\bin\Debug\WPFhello.exe
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\bin\Debug\WPFhello.pdb
+C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.csprojAssemblyReference.cache
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\MainWindow.baml
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\MyMessage.baml
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\MainWindow.g.cs
@@ -23,6 +40,7 @@ C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\App.g.cs
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello_MarkupCompile.cache
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.g.resources
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.Properties.Resources.resources
-C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.Cache
+C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
+C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.csproj.CoreCompileInputs.cache
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.exe
 C:\Users\milos\Desktop\PS_36_Milos\WPFhello\obj\Debug\WPFhello.pdb
